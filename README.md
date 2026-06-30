@@ -14,7 +14,7 @@
 
 <td align="center">
 <img src="img/3.png" width="250"><br>
-<b>Expense Added</b>
+<b>Add Expense</b>
 </td>
 </tr>
 
