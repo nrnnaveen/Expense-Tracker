@@ -14,24 +14,24 @@
 
 <td align="center">
 <img src="img/3.png" width="250"><br>
-<b>Add Expense</b>
+<b>View Expenses</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
 <img src="img/4.png" width="250"><br>
-<b>View Expenses</b>
-</td>
-
-<td align="center">
-<img src="img/5.png" width="250"><br>
 <b>Monthly Summary</b>
 </td>
 
 <td align="center">
-<img src="img/6.png" width="250"><br>
+<img src="img/5.png" width="250"><br>
 <b>Delete Expense</b>
+</td>
+
+<td align="center">
+<img src="img/6.png" width="250"><br>
+<b>View Expenses</b>
 </td>
 </tr>
 
