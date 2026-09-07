@@ -130,3 +130,4 @@ id || Name || Catagory || Amount""")
         
 conn.commit()
 conn.close()
+                     #- by Naveen
