@@ -1,4 +1,4 @@
-<h2 align="center">Terminal Based Expense Tracker</h2>
+<h2 align="center">Terminal Based Expenses Tracker</h2>
 
 <table>
 <tr>
